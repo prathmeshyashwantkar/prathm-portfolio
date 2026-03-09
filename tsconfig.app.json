@@ -20,5 +20,9 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
+<<<<<<< HEAD
  "include": ["."]
+=======
+  "include": ["src"]
+>>>>>>> 8de59d4 (portfolio website)
 }
